@@ -1,0 +1,175 @@
+body,html,header,h1{
+margin: 0;
+padding: 0;
+}
+
+body,html{
+width: 100%;
+height: 100%;
+}
+
+header,body{
+  background: url("eleph en ville 2 (new).jpg") no-repeat center center;
+  background-size: cover;
+  background-attachment: fixed;
+  color: white;
+}
+
+#navbar{
+  background-color: #11436c;
+}
+
+#btn{
+color: #11436c;
+font-family: 'Oswald', sans-serif;
+width: 70px;
+background-color: #3a859d;
+border-radius: 5%;
+}
+
+#dpd{
+  color: #42a5c4;
+}
+
+.wrapper{
+  display: table;
+  width: 100%;
+  height: 100%;
+}
+
+.content{
+  display: table-cell;
+  text-align: center;
+  vertical-align: middle;
+  text-shadow: black;
+}
+
+.jumbotron{
+  margin-top: 15%;
+  border-radius: 2%;
+  margin-left: 10%;
+  margin-right: 10%;
+  background-color: rgba(247, 245, 245, 0.51);
+   }
+
+ #jumbotron2{
+     margin-top: 10%;
+     border-radius: 2%;
+     margin-left: 10%;
+     margin-right: 10%;
+     background-color: rgba(247, 245, 245, 0.51);
+      }
+
+.display-3{
+  font-size: 2.1rem;
+  font-family: 'Oswald', sans-serif;
+color: #11436c;
+
+}
+
+hr{
+  height: 0.08rem;
+width: 70%;
+background-color: #1670cd;
+}
+
+#lead{
+ font-size: 1.5rem;
+  font-family: 'Oswald', sans-serif;
+color: #2f7085;
+
+}
+
+.citation{
+  font-size: 1rem;
+  font-family: 'Montserrat', sans-serif;
+color: black;
+
+}
+
+.display-4{
+  font-size: 1.5rem;
+  font-family: 'Oswald', sans-serif;
+color: #11436c;
+
+}
+
+.detail{
+  font-size: 1rem;
+  font-family: 'Montserrat', sans-serif;
+color: black;
+margin-left: 5px;
+margin-right: 5px;
+
+text-align: justify;
+}
+
+.global {
+   overflow:auto;
+}
+#gauche {
+ font-size: 1rem;
+  padding-left: 90px;
+   color: black;
+   float:left;
+   width:60%;
+}
+#droite {
+  font-size: 1rem;
+  color: black;
+  padding-right: 240px;
+   /* overflow:auto; */
+}
+
+.caroutitre{
+  font-size: 1.5rem;
+  font-family: 'Anton', sans-serif;
+   background-color: rgba(247, 245, 245, 0.31);
+  color: #313234;
+}
+
+#BG-footer{
+  background-color: rgba(#5c5e5c, 0.77)
+}
+
+#link{
+  color: #a5a3bb;
+}
+
+h2{
+  font-size: 1.5rem;
+}
+
+.Adresse{
+  margin-left: 2rem;
+  font-size: 2rem;
+  color: #2a73af;
+}
+
+.Adresse2{
+  font-size: 1.3rem;
+  color: #112f39;
+}
+
+#lien{
+  font-size: 1rem;
+  color: #2a73af;
+}
+
+
+.linkfolio1{
+  border-radius: 3%;
+  background-color: rgb(11, 162, 177);
+  font-size: 1.7rem;
+  color: rgb(219, 174, 12);
+}
+.linkfolio2{
+  border-radius: 3%;
+  background-color: rgb(219, 174, 12);
+  font-size: 2rem;
+  color: rgb(11, 162, 177)
+}
+#Liens{
+font-size: 2rem;
+ color:  #2a73af;
+}
